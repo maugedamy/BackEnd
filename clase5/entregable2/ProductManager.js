@@ -6,16 +6,6 @@ export default class ProductManager {
     this.path = "../files/productos.json";
   }
 
-  // let product = {
-  //   title: title,
-  //   description: description,
-  //   price: price,
-  //   thumbnail: thumbnail,
-  //   code: code,
-  //   stock: stock,
-  //   id: ++id_code,
-  // };
-
   addProduct = async (product) => {
     await this.getProducts();
     let id_code = 0;
