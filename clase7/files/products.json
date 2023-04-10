@@ -1,0 +1,92 @@
+[
+	{
+		"title": "Borcego Ana",
+		"description": "Borcego cuero",
+		"price": 8000,
+		"thumbnail": "sin imagen",
+		"code": "10",
+		"stock": 25,
+		"id_code": 1
+	},
+	{
+		"title": "Botas Paris",
+		"description": "Botas de ecocuero",
+		"price": 12000,
+		"thumbnail": "sin imagen",
+		"code": "11",
+		"stock": 25,
+		"id_code": 2
+	},
+	{
+		"title": "Botas London",
+		"description": "Botas de cuero",
+		"price": 18000,
+		"thumbnail": "sin imagen",
+		"code": "12",
+		"stock": 25,
+		"id_code": 3
+	},
+	{
+		"title": "Zapas Greece",
+		"description": "Zapatillas urbanas",
+		"price": 10000,
+		"thumbnail": "sin imagen",
+		"code": "13",
+		"stock": 25,
+		"id_code": 4
+	},
+	{
+		"title": "Botas Tartaro",
+		"description": "Botas de cuero",
+		"price": 28000,
+		"thumbnail": "sin imagen",
+		"code": "14",
+		"stock": 25,
+		"id_code": 5
+	},
+	{
+		"title": "Borcego Munich",
+		"description": "Borcego cuero",
+		"price": 12000,
+		"thumbnail": "sin imagen",
+		"code": "15",
+		"stock": 25,
+		"id_code": 6
+	},
+	{
+		"title": "Zapatillas Macchu",
+		"description": "Zapatillas urbanas",
+		"price": 8000,
+		"thumbnail": "sin imagen",
+		"code": "16",
+		"stock": 25,
+		"id_code": 7
+	},
+	{
+		"title": "Botas Becca",
+		"description": "Botas de cuero",
+		"price": 12500,
+		"thumbnail": "sin imagen",
+		"code": "17",
+		"stock": 25,
+		"id_code": 8
+	},
+	{
+		"title": "Borcego Jules",
+		"description": "Borcego de cuero",
+		"price": 12000,
+		"thumbnail": "sin imagen",
+		"code": "18",
+		"stock": 25,
+		"id_code": 9
+	},
+	{
+		"title": "Botas Oxford",
+		"description": "Botas de cuero",
+		"price": 28000,
+		"thumbnail": "sin imagen",
+		"code": "19",
+		"stock": 25,
+		"id_code": 10
+	}
+]
